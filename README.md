@@ -8,6 +8,7 @@ I do a bit of everything from [designing](http://www.dribbble.com/nabil) to codi
 **📚 Book list:**
 - [ ] [Winners Takes All](https://www.penguinrandomhouse.com/books/539747/winners-take-all-by-anand-giridharadas/) ✨Currently Reading✨
 - [ ] [Pedagogy of the Oppressed](https://www.bloomsbury.com/us/pedagogy-of-the-oppressed-9780826412768/)
+- [x] [Begin Again](https://www.penguinrandomhouse.com/books/575725/begin-again-by-eddie-s-glaude-jr/) 🔥 10/10 Very good. The audio reading by the author is special.
 
 **🍎 Classes:**
 - [ ] [Principles of Typeface Design](http://coopertype.org/event/principles_of_typeface_design_sp21a) ✨Currently taking✨
