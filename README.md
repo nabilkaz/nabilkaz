@@ -6,8 +6,8 @@ I do a bit of everything from [designing](http://www.dribbble.com/nabil) to codi
 - [ ] Write Credit Karma Tax case study ✨Currently writing✨
 
 **📚 Book list:**
-- [ ] [Winners Takes All](https://www.penguinrandomhouse.com/books/539747/winners-take-all-by-anand-giridharadas/) ✨Currently Reading✨
 - [ ] [Pedagogy of the Oppressed](https://www.bloomsbury.com/us/pedagogy-of-the-oppressed-9780826412768/)
+- [x] [Winners Takes All](https://www.penguinrandomhouse.com/books/539747/winners-take-all-by-anand-giridharadas/) ⌛️ Finished. Still processing.
 - [x] [Begin Again](https://www.penguinrandomhouse.com/books/575725/begin-again-by-eddie-s-glaude-jr/) 🔥 10/10 Very good. The audio reading by the author is special.
 
 **🍎 Classes:**
