@@ -1,5 +1,6 @@
 Hi 👋 
-I do a bit of everything from [designing](http://www.dribbble.com/nabil) to coding. I really enjoy thinking about how society is organized—a bit of nerd.
+I'm currently learning about **AI Design**. I do a bit of everything from [designing](http://www.dribbble.com/nabil) to coding.
+
 
 **🚀 Projects:**
 - [ ] Design a font ✨Currently designing✨
