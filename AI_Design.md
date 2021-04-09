@@ -1,5 +1,5 @@
 # AI Design
-Living document for capturing as a delve further into AI design work.
+Living document for capturing what I learn about AI Design.
 
 ## Key concepts
 
