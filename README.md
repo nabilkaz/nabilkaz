@@ -13,7 +13,7 @@ I'm currently learning about [**AI Design**](./AI_Design.md). I do a bit of ever
 
 **🍎 Classes:**
 - [ ] [Principles of Typeface Design](http://coopertype.org/event/principles_of_typeface_design_sp21a) ✨Currently taking✨
-- [ ] [Designing Business by Design Dept](https://www.designdept.co/workshops/2021/biz-03) ✨Currently taking✨
+- [x] [Designing Business by Design Dept](https://www.designdept.co/workshops/2021/biz-03) 🔥 10/10 Extremely helpful — an 8 week MBA for designers. 
 
 <!--
 **nabilkaz/nabilkaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
