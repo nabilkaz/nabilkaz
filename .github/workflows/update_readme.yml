@@ -1,0 +1,25 @@
+# This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Update Readme with book progress
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate updated markdown
+        run: |
+          echo 'AIRTABLE_API_KEY=${{ secrets.AIRTABLE_API_KEY }}' > .env
+          npm i
+          npm run build
+          rm .env
+
+      - name: Git auto commit
+        uses: stefanzweifel/git-auto-commit-action@v4.7.2
