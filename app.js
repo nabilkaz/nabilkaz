@@ -3,7 +3,7 @@ const markdown = require("./utils/markdown");
 const templateCompiler = require("./utils/templateCompiler");
 
 const templatePath = "./templates/readme.md";
-const destinationFilePath = "readme.md";
+const destinationFilePath = "README.md";
 
 let books = [];
 
