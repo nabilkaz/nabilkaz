@@ -71,17 +71,18 @@ Voices in the field: [Joy Buolamwini](https://www.media.mit.edu/people/joyab/ove
 
 ## Resources
 - [ ] [People + Al Guidebook](https://pair.withgoogle.com/guidebook/) ✨ Currently Reading ✨ 
-- [ ] [Tic-Tac-Toe the Hard Way](https://www.youtube.com/playlist?list=PL2s97uMS4gRI07tpTQ_fobKxN0tI2dPHa) ✨ Currently Listening ✨ 
+- [ ] [Introductory Terms](https://mlfromscratch.com/introductory-terms-in-machine-learning)
+- [x] [Tic-Tac-Toe the Hard Way](https://www.youtube.com/playlist?list=PL2s97uMS4gRI07tpTQ_fobKxN0tI2dPHa) ✨ Currently Listening ✨ 
   - [x]  Ep 0: Introducing Tic-Tac-Toe 
   - [x]  [Ep 1: Howdy, and the myth of "pouring in data"](https://www.youtube.com/watch?v=3sdUF4p1U7I&list=PL2s97uMS4gRI07tpTQ_fobKxN0tI2dPHa&index=3) | ⭐️⭐️⭐️⭐️ Teaching two training model concepts: Supervised and reinforcement learning 
   - [x]  Ep 2: What does a tic-tac-tow board look like to machine learning? | ⭐️⭐️⭐️ Considerations for Supervised Learning training
-  - [ ]  Ep 3: From tic-tac-toe moves to ML model
-  - [ ]  Ep 4: Beating random: What it means to have trained a model
-  - [ ]  Ep 5: Give that model a treat!: Reinforcement learning explained
-  - [ ]  Ep 6: Head to head: the Big ML Smackdown!
-  - [ ]  Ep 7: Enter tic-tac-two
-  - [ ]  Ep 8: Head to head: The even bigger ML smackdown
-  - [ ]  Ep 9: Lessons learned
+  - [x]  Ep 3: From tic-tac-toe moves to ML model
+  - [x]  Ep 4: Beating random: What it means to have trained a model
+  - [x]  Ep 5: Give that model a treat!: Reinforcement learning explained
+  - [x]  Ep 6: Head to head: the Big ML Smackdown!
+  - [x]  Ep 7: Enter tic-tac-two
+  - [x]  Ep 8: Head to head: The even bigger ML smackdown
+  - [x]  Ep 9: Lessons learned
 - [ ] [Designing Human-Centered AI Products (Google I/O'19)](https://www.youtube.com/watch?v=rf83vRxLWFQ)
 - [ ] [AI Research Is in Desperate Need of an Ethical Watchdog by Sophia Chen](https://www.wired.com/story/ai-research-is-in-desperate-need-of-an-ethical-watchdog/?utm_source=ISTV&utm_medium=Video&utm_campaign=ISTV2018_ISTV1808)
 - [ ] [The ethics of artificial intelligence. In The Cambridge Handbook of Artificial Intelligence.](https://nickbostrom.com/ethics/artificial-intelligence.pdf?utm_source=ISTV&utm_medium=Video&utm_campaign=ISTV2018_ISTV1808)
