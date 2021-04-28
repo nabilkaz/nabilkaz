@@ -72,7 +72,14 @@ Voices in the field: [Joy Buolamwini](https://www.media.mit.edu/people/joyab/ove
 ## Resources
 - [ ] [People + Al Guidebook](https://pair.withgoogle.com/guidebook/) ✨ Currently Reading ✨ 
 - [ ] [Introductory Terms](https://mlfromscratch.com/introductory-terms-in-machine-learning)
-- [x] [Tic-Tac-Toe the Hard Way](https://www.youtube.com/playlist?list=PL2s97uMS4gRI07tpTQ_fobKxN0tI2dPHa) ✨ Currently Listening ✨ 
+- [ ] [Designing Human-Centered AI Products (Google I/O'19)](https://www.youtube.com/watch?v=rf83vRxLWFQ)
+- [ ] [AI Research Is in Desperate Need of an Ethical Watchdog by Sophia Chen](https://www.wired.com/story/ai-research-is-in-desperate-need-of-an-ethical-watchdog/?utm_source=ISTV&utm_medium=Video&utm_campaign=ISTV2018_ISTV1808)
+- [ ] [The ethics of artificial intelligence. In The Cambridge Handbook of Artificial Intelligence.](https://nickbostrom.com/ethics/artificial-intelligence.pdf?utm_source=ISTV&utm_medium=Video&utm_campaign=ISTV2018_ISTV1808)
+- [ ] [Introduction to Fuzzy Cognitive Maps](https://www.youtube.com/watch?v=HNEfGppZptU)
+- [ ] [Surveillance capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/)
+- [ ] [LocAI: AI Design for Local Contexts](https://medium.com/people-ai-research/locai-ai-design-for-local-contexts-9ecfde4aeac8)
+
+- [x] [Tic-Tac-Toe the Hard Way](https://www.youtube.com/playlist?list=PL2s97uMS4gRI07tpTQ_fobKxN0tI2dPHa) | ⭐️⭐️⭐️⭐️ Fun lightweight discussion that introduces you to concpets.
   - [x]  Ep 0: Introducing Tic-Tac-Toe 
   - [x]  [Ep 1: Howdy, and the myth of "pouring in data"](https://www.youtube.com/watch?v=3sdUF4p1U7I&list=PL2s97uMS4gRI07tpTQ_fobKxN0tI2dPHa&index=3) | ⭐️⭐️⭐️⭐️ Teaching two training model concepts: Supervised and reinforcement learning 
   - [x]  Ep 2: What does a tic-tac-tow board look like to machine learning? | ⭐️⭐️⭐️ Considerations for Supervised Learning training
@@ -83,12 +90,6 @@ Voices in the field: [Joy Buolamwini](https://www.media.mit.edu/people/joyab/ove
   - [x]  Ep 7: Enter tic-tac-two
   - [x]  Ep 8: Head to head: The even bigger ML smackdown
   - [x]  Ep 9: Lessons learned
-- [ ] [Designing Human-Centered AI Products (Google I/O'19)](https://www.youtube.com/watch?v=rf83vRxLWFQ)
-- [ ] [AI Research Is in Desperate Need of an Ethical Watchdog by Sophia Chen](https://www.wired.com/story/ai-research-is-in-desperate-need-of-an-ethical-watchdog/?utm_source=ISTV&utm_medium=Video&utm_campaign=ISTV2018_ISTV1808)
-- [ ] [The ethics of artificial intelligence. In The Cambridge Handbook of Artificial Intelligence.](https://nickbostrom.com/ethics/artificial-intelligence.pdf?utm_source=ISTV&utm_medium=Video&utm_campaign=ISTV2018_ISTV1808)
-- [ ] [Introduction to Fuzzy Cognitive Maps](https://www.youtube.com/watch?v=HNEfGppZptU)
-- [ ] [Surveillance capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/)
-- [ ] [LocAI: AI Design for Local Contexts](https://medium.com/people-ai-research/locai-ai-design-for-local-contexts-9ecfde4aeac8)
 - [x] [Webinar: How to Design UX for AI by Zillow Principal PM, Debapriya Basu](https://www.youtube.com/watch?v=8qDlbXHDm9Q) (49:30) | ⭐️⭐️⭐️⭐️ great framework and examples. Similar content to People + AI Playbook.
 - [x] [Designing AI Experiences](https://www.youtube.com/watch?v=AAJ2vQXm5HQ) (26:28) by Adrian Zumbrunnen | ⭐️⭐️⭐️ interesting but not actionable
 - [x] [Fuzzy Cognitive Mapping for UX Design in Human-centred AI](https://www.youtube.com/watch?v=bGPVKuKDNyA) | ⭐️⭐️⭐️⭐️ good framework for mapping out cognitive maps for data scientists
