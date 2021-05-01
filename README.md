@@ -6,7 +6,7 @@ I'm currently learning about [**AI Design**](./AI_Design.md). I do a bit of ever
 
 A list of the books I'm currently reading updated from my Airtable base where I cataloge all the books I own.
 ```text
-████████░░░░░░░░░░░░░░░░░ 35%  Dark Money 
+█████████████░░░░░░░░░░░░ 54%  Dark Money 
 ███░░░░░░░░░░░░░░░░░░░░░░ 13%  Pedagogy of the Oppressed 
 ███████████████░░░░░░░░░░ 60%  Structuring Design 
 ```
