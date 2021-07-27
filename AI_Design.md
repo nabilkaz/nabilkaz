@@ -1,7 +1,13 @@
 # AI Design
-Living document for capturing what I learn about AI Design.
+Living document for capturing what resources for AI interaction design.
 
-## Key concepts
+### Industry Best Practices
+Resource  | Description
+:------------- | :-------------
+**[Google: People + AI Guidebook](https://pair.withgoogle.com/guidebook)** | A set of methods, best practices and examples for designing with AI. There's also presentation from I/O '19 called [Designing Human-Centered AI Products](https://www.youtube.com/watch?v=rf83vRxLWFQ&t=456s). This guidebook has areas to explore [patterns](https://pair.withgoogle.com/guidebook/case-studies), [case studies](https://pair.withgoogle.com/guidebook/case-studies) and running [workshops](https://pair.withgoogle.com/guidebook/workshop).
+**[IBM: Design for AI](https://www.ibm.com/design/ai/)** | A collection of ethics, guidelines, and resources ensuring a unified foundation.
+**[Microsoft: Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/)** | Background on 18 recommended guidelines for human-AI interaction design and how to apply them.
+**[Apple: Designing the UI and User Experience of a Machine Learning App](https://developer.apple.com/design/human-interface-guidelines/machine-learning/overview/introduction/)** | Recommendations for Learn how to incorporate ML experiences into your apps, and gain practical approaches to designing user interfaces that feel effortlessly helpful. There is also a WWDC19 presentation called Designing [Great ML Experiences](https://developer.apple.com/videos/play/wwdc2019/803/)
 
 ### Training a model
 Concept  | Definition
@@ -11,39 +17,6 @@ Labels | Only occur when training a model. The label is the ground truth of what
 Ground truth | An ideal expected result. Truth with a lower case "t"
 [Supervised learning](https://www.youtube.com/watch?v=3sdUF4p1U7I&t=570s)  | Learn by example. Feed in a data set (i.e. 5000 pictures of a tiger) with a label (i.e. tiger) and it will pattern match the commonalities until it comes up with a model that allows it to successfully identify that label. The next datum that comes it will make a probabilistic guess if it matches a label. It essential attempts to separate groups of data and make probabilistic guesses.
 [Reinforcement Learning](https://www.youtube.com/watch?v=3sdUF4p1U7I&t=760s)  | Differs from Supervised Learning in that it doesn't start with labels or ground truth for this example. You have an agent, or a program that does a thing, and it interacts with the environment. The environment will periodically give it feedback: positive or negative. By interacting with this environment that provides feedback it gradually seeks to maximize the longterm positive feedback and avoid the negative.
-
-
-### Stages of user interaction
-1. Before first interaction
-  - Clarify what the system can do
-  - Clarify how well the system can do what it promises to do
-2. During course of interaction
-  - Show contextually relevant insights
-  - Match relevant social norms
-  - Mitigate social bias (Google translate translates neutral pronoun to non-neutral languages by showing all options)
-  - Time services based on context
-3. When things go wrong
-  - Allow efficient invocation
-  - Scope services when in doubt
-  - Allow efficient correction
-  - Allow efficient dismissal
-  - Clarify what the system did
-4. Over continued repeated interaction
-  - Learn from user behavior
-  - Update and adapt cautiously
-  - Remember recent interactions
-  - Encourage granular feedback 
-  - Convey consequences of user action
-  - Provide global controls
-  - Notify users about changes
-
-### Design Process Framework
-1. User needs and defining success
-2. Data collection and evaluation
-3. Mental models
-4. Explainability and trust
-5. Feedback and control (Fuel for AI)
-6. Errors and graceful failure
 
 ## Ethical AI
 - Privacy: AI models should be built iwthin guardrails to ensure users cannot be identified or their details inferred from model output
@@ -68,28 +41,5 @@ Voices in the field: [Joy Buolamwini](https://www.media.mit.edu/people/joyab/ove
 
 ## Courses
 - [ ] [DeepLearning.AI](https://www.deeplearning.ai/)
+- [ ] [UXAI](https://www.uxai.design/)
 
-## Resources
-- [ ] [People + Al Guidebook](https://pair.withgoogle.com/guidebook/) ✨ Currently Reading ✨ 
-- [ ] [Introductory Terms](https://mlfromscratch.com/introductory-terms-in-machine-learning)
-- [ ] [Designing Human-Centered AI Products (Google I/O'19)](https://www.youtube.com/watch?v=rf83vRxLWFQ)
-- [ ] [AI Research Is in Desperate Need of an Ethical Watchdog by Sophia Chen](https://www.wired.com/story/ai-research-is-in-desperate-need-of-an-ethical-watchdog/?utm_source=ISTV&utm_medium=Video&utm_campaign=ISTV2018_ISTV1808)
-- [ ] [The ethics of artificial intelligence. In The Cambridge Handbook of Artificial Intelligence.](https://nickbostrom.com/ethics/artificial-intelligence.pdf?utm_source=ISTV&utm_medium=Video&utm_campaign=ISTV2018_ISTV1808)
-- [ ] [Introduction to Fuzzy Cognitive Maps](https://www.youtube.com/watch?v=HNEfGppZptU)
-- [ ] [Surveillance capitalism](https://www.publicaffairsbooks.com/titles/shoshana-zuboff/the-age-of-surveillance-capitalism/9781610395694/)
-- [ ] [LocAI: AI Design for Local Contexts](https://medium.com/people-ai-research/locai-ai-design-for-local-contexts-9ecfde4aeac8)
-
-- [x] [Tic-Tac-Toe the Hard Way](https://www.youtube.com/playlist?list=PL2s97uMS4gRI07tpTQ_fobKxN0tI2dPHa) | ⭐️⭐️⭐️⭐️ Fun lightweight discussion that introduces you to concpets.
-  - [x]  Ep 0: Introducing Tic-Tac-Toe 
-  - [x]  [Ep 1: Howdy, and the myth of "pouring in data"](https://www.youtube.com/watch?v=3sdUF4p1U7I&list=PL2s97uMS4gRI07tpTQ_fobKxN0tI2dPHa&index=3) | ⭐️⭐️⭐️⭐️ Teaching two training model concepts: Supervised and reinforcement learning 
-  - [x]  Ep 2: What does a tic-tac-tow board look like to machine learning? | ⭐️⭐️⭐️ Considerations for Supervised Learning training
-  - [x]  Ep 3: From tic-tac-toe moves to ML model
-  - [x]  Ep 4: Beating random: What it means to have trained a model
-  - [x]  Ep 5: Give that model a treat!: Reinforcement learning explained
-  - [x]  Ep 6: Head to head: the Big ML Smackdown!
-  - [x]  Ep 7: Enter tic-tac-two
-  - [x]  Ep 8: Head to head: The even bigger ML smackdown
-  - [x]  Ep 9: Lessons learned
-- [x] [Webinar: How to Design UX for AI by Zillow Principal PM, Debapriya Basu](https://www.youtube.com/watch?v=8qDlbXHDm9Q) (49:30) | ⭐️⭐️⭐️⭐️ great framework and examples. Similar content to People + AI Playbook.
-- [x] [Designing AI Experiences](https://www.youtube.com/watch?v=AAJ2vQXm5HQ) (26:28) by Adrian Zumbrunnen | ⭐️⭐️⭐️ interesting but not actionable
-- [x] [Fuzzy Cognitive Mapping for UX Design in Human-centred AI](https://www.youtube.com/watch?v=bGPVKuKDNyA) | ⭐️⭐️⭐️⭐️ good framework for mapping out cognitive maps for data scientists
