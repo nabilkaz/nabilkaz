@@ -1,1 +1,1 @@
-design lead and manager for ai-driven experiences
+design lead for ai-driven experiences
